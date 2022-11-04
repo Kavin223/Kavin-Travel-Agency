@@ -55,7 +55,7 @@
                             <script>
                                 document.write(new Date().getFullYear());
                             </script>-2020 
-                            This project devlope by Kavin Mo. 6379505652
+                            This project devloped by Kavin Mo. 6379505652
                         </p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
